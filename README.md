@@ -2,6 +2,7 @@
 - 👀 I’m interested in playing game and listening to music
 - 🌱 I’m currently learning at HCMUT
 - 💞️ I’m looking to collaborate on... uhm... no one now
+- CS doesn't stand for Computer Science :)
 - 📫 How to reach me mail minhnguyenvancs213@gmail.com
 
 <!---
